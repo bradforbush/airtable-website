@@ -1,9 +1,9 @@
 const config = {
   header: "Header",
-  headerBackground: "#ff8ba7",
-  bodyBackground: "#ffc6c7",
-  title: "Title",
-  subTitle: "Sub Title",
+  headerBackground: "##566573",
+  bodyBackground: "#ffffff",
+  title: "Welcome to the 42nd Ward",
+  subTitle: "Inviting Others to Come Unto Christ",
   airtable: "https://airtable.com/embed/shrdi24ocwoEeXx6d?backgroundColor=red&viewControls=on",
   googleAnalytics: "UA-XXXXXXXX-X"
 }
