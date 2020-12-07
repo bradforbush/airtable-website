@@ -4,7 +4,7 @@ const config = {
   bodyBackground: "#ffffff",
   title: "Commitment to serving the Savior",
   subTitle: "Inviting Others to Come Unto Christ",
-  airtable: "https://airtable.com/embed/shrdi24ocwoEeXx6d?backgroundColor=red&viewControls=on",
+  airtable: "https://airtable.com/shrzdJvXQ4s99NqKk",
   googleAnalytics: "UA-XXXXXXXX-X"
 }
 
